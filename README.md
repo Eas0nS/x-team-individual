@@ -1,5 +1,5 @@
 # x-team-individual
 https://github.com/Eas0nS/x-team-individual
-## Yuxuan Shao
+## Name
 Yuxuan Shao
 ## My Team Rule
